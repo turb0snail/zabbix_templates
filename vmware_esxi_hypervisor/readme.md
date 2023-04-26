@@ -67,7 +67,7 @@
 4. If it is required For getting vc.uuid: 
 <code>esxcli system uuid get</code>
 
-*P.S: In our case I am going to use **uuid.bios** for monitoring.* 
+*P.S: In our case use **uuid.bios** for monitoring.* 
  
 
 
